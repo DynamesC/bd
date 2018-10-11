@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bd</string>
+    <string-array name="category_array">
+        <item>All categories</item>
+        <item>Bulb</item>
+        <item>Speaker</item>
+        <item>Power Board</item>
+        <item>Switch</item>
+        <item>Timer</item>
+    </string-array>
+</resources>
